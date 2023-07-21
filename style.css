@@ -1,0 +1,19 @@
+.p-2:hover{
+    transform:  translateY(-3px) scale(1.01);   
+}
+.read{
+    background-color: #3768e5;
+}
+h6{
+   color:#ff0000;
+}
+#mic{
+    height: 35px;
+    width: auto;
+    margin: 5px;
+    
+}
+#mic:hover{
+    cursor: pointer;
+    transform:  translateY(-3px) scale(1.01); 
+}
